@@ -1,0 +1,6 @@
+{
+  "name": "Wanderly",
+  "description": "A modern travel discovery and tour guidance platform to explore destinations, discover experiences, compare estimated travel costs, and plan trips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
